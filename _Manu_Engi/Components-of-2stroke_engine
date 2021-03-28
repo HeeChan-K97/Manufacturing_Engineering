@@ -1,0 +1,14 @@
+# Components and descriptions
+
+	Piston: It performs in two different state, which are top dead center [TDC] and the bottom dead center [BDC] in linearly up and down movement. The piston operates under compressive force due to burning of fuel/air mixture
+	Conrod: Used to connect the piston to the crankshaft. Joined by a bearing for smooth rotation
+	Gudgeon Pin: Used to provide joint connection of the conrod to the piston
+	Crankshaft: Rotation of the crankshaft generates the linear motion of the piston in the engine
+	Crankcase: The internal part of the engine where air/fuel mixture is delivered to transfer port for ignition and the crankshaft rotation takes place
+	Crank web: Used to store the energy and counters the engine vibration
+	Spark plug: Used to ignites the air/fuel mixture. The plug ignites regularly during the combustion in a chamber
+	Cylinder head: The Upper part of the piston, component which makes contact with the spark plug
+	Ports
+  Suction port: A port to deliver air/fuel mixture to the crankcase. The mixture is only allowed to flow into the engine
+  Transfer port: Mixture passes through the transfer port for combustion
+  Exhaust gas port: Burnt air/fuel mixture leave the engine through exhaust gas port
