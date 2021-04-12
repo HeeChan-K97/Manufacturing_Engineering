@@ -1,0 +1,15 @@
+#SAFETY
+the condition of being safe from undergoing or causing hurt, injury, or loss
+
+#RISK
+the possibility of loss or injury
+Risk is different to uncertainty - risk can be assigned probabilities and the randomness can be faced, while uncertainty applies where we cannot meaningful express the randomness in mathematical terms. 
+                                   We also need to consider that there are many aspects of real world engineering problems that have inherent variability - natural phenomena 
+                                   for example are variable like turbulence loads on an aeroplane, or wave loads on a ship.
+Risk is everywhere and it is unavoidable. 
+Risk cannot be eliminated (zero risk is not a realistic option), but it can be managed - there is an entire field of practice of risk management.
+
+#Hazard 
+a source of danger
+it is the source or potential for harm in terms of human injury or ill health, damage to property, environment or a combination of these. 
+In designing, engineers must consider all hazards for anyone coming into contact with the product or its components during its lifetime.
