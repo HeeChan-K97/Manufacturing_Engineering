@@ -1,0 +1,19 @@
+#Event Tree Analysis
+By using event trees to investigate the consequences of a fault, we can then improve the system to minimise the bad consequences - this analysis does not look at the original event and try eliminate it.  Event Tree Analysis is often used to evaluate "failsafe" mechanisms in systems that are safety critical. 
+
+#Event tree analysis process
+1. Identify and analyse the initiating event that may cause the system to fail.
+2. Identify the components and controls that are in the system to deal with the initiating event (for example automatic safety systems, alarms  etc).
+3. Construct the event tree beginning with the initiating event and considering all possible failures of the safety components and functions.  These should be traced through the system until all components and events have been considered and the "ultimate conclusion" of the series of events has been reached - this will be identified as "success" or "failure".
+4. Quantify each of the events that may occur.
+5. Use the paths that lead to failure to identify the critical failures that need to be addressed.
+
+#Some advantages of Bow Tie analysis are:
+* Bow ties provide a good structure for operational audits into safety and risk
+	Are the barriers there?
+	Are the barriers intact and in operation?
+	Is there sufficient defense?
+* Are there single point trajectories where everything relies on a single defense?
+* Explicitly demonstrates how a system has implemented ALARP/SFARP
+* Can assist in meeting regulatory requirements
+* Effective method of communicating hazards to workforce due to simplicity
