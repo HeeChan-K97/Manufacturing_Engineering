@@ -1,0 +1,12 @@
+#Implementing FMEA in several steps
+
+Steps:
+1. Determine the failure modes
+2. Determine potential effects of each failure mode
+3. Determine a severity (S) rating for each effect from the Severity rating table.
+4. Determine an occurrence (O) rating for each cause from the Occurrence rating table.
+5. Determine a detection (D) rating for each cause from the Detection rating table
+6. Calculate the risk priority number for each effect
+7. Prioritise or rank the failure modes for action
+8. Take action to eliminate the failure mode or reduce its severity
+9. Recalculate the risk priority number as failure modes are reduced or eliminated
