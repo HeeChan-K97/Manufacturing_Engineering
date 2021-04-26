@@ -1,0 +1,25 @@
+#Components of Vertical Piston Hand Pump
+
+Pump Rod (Aluminium Shaft)        : A solid steel rod about 6mm in diameter, that connects the piston valve and seals to the pump handle. 
+                            By operating the pump handle, we can move the pump rod along with the piston valves and the seals (piston assembly) in a vertical motion
+
+Upper Cap                         :This feature seals the interior of the pump cylinder and limits the motion of the piston valve which ultimately defines the water flow
+
+Cylindrical Barrel (PVC Main Body): This is the main body of the pump cylinder. For this design, a 38mm to 40mm (inner diameter) PVC pipe is used to construct this main body of the pump. 
+                                    Inside here is the piston valve pushed against the inside wall of the cylinder barrel and acts as a seal. 
+                                    This allows the pressure differential between the upper and lower part of the cylinder to be maintained during pump operation
+
+Piston Valve                      : This a non-return valve (one-way valve) which maintains flow of water into the upper cylinder when the pump rod is moved downward.
+                                    When moved upward, the valve is closed to push the water to the delivery outlet (Joiner Socket)
+
+Piston Seals                      : Generally, these seals are made of rubber that stops the piston assembly against the inner walls of the cylinder.
+                                    During the piston assembly movement, a pressure differential is felt on the piston seals. 
+                                    It is this difference in pressure that allows the water movement inside the cylinder and to the delivery outlet
+
+Foot Valve                        : Another one-way valve, typically situated in the inner walls of the lower cylinder. 
+                                    This valve manages the upward water flow from the water table to the cylinder when the pump rod is pulled and holds it 
+                                    inside the cylinder when the pump rod is pushed inside the cylinder
+
+PVC Junction                      : This junction pipe is acts as a connection by connecting three different parts of the pump together. 
+                                    The bottom hole is connected with main body, whilst the top is connected to the part with the upper cap and the side hole is connected to the output pipe. 
+                                    This is a stationary part with a minor stress, due to the flexing in the pump. Whereas, the major role of this part is to manage the water flow with angle
