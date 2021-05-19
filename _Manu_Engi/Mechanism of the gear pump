@@ -1,0 +1,9 @@
+Rotation mechanism of the Gear Pump
+
+Inside the suction port there are two gears, one is the driver gear and the other one is the Idler(driven) gear. 
+According to the figure shown below the driver gear is the blue one and it is rotating in 
+clockwise whilst making the contacting Idler gear to rotate in counter-clockwise motion.
+The port on the left has a larger hole and it is called suction port where oil sucked inside the housing through it. 
+Also, there is lower pressure on the suction port to allow the oil to follow the path as the arrow indicates in the figure. 
+The port on the other side is called pressure port and it is where high pressure is generated due to the rotation of the gears
+and the size of its hole is smaller than the suction port. The size of the suction port is larger than the pressure port mainly to avoid cavitation.
